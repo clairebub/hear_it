@@ -1,12 +1,12 @@
-Read and understand https://github.com/MTG/freesound-python/blob/master/Readme.md
-Get an api token from freesound.org
-Install the freesound library on your local machine with the following steps:
-Install github
-Download the python egg:
-git clone https://github.com/MTG/freesound-python.git
-Install the python egg:
-python3 setup.py install
-Run this python script to discover and download the sound samples
+1. Read and understand https://github.com/MTG/freesound-python/blob/master/Readme.md
+2. Get an api token from freesound.org
+3. Install the freesound library on your local machine with the following steps:
+   * Install github
+   * Download the python egg:
+     * git clone https://github.com/MTG/freesound-python.git
+   * Install the python egg:
+     * python3 setup.py install
+   * Run this python script to discover and download the sound samples
 
 
 Others
