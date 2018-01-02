@@ -1,2 +1,15 @@
+Read and understand https://github.com/MTG/freesound-python/blob/master/Readme.md
+Get an api token from freesound.org
+Install the freesound library on your local machine with the following steps:
+Install github
+Download the python egg:
+git clone https://github.com/MTG/freesound-python.git
+Install the python egg:
+python3 setup.py install
+Run this python script to discover and download the sound samples
+
+
+Others
+=============
 https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
 https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/2
